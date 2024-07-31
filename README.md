@@ -39,15 +39,15 @@ No graded assignment or quiz for Week 1.
 
 ## Week 5: Programmer's Toolbox
 <h3>Programming Assignments:</h3>
-• <a href="">Assignment: Built-In Functions</a><br/>
-• <a href="">Assignment: Matrix Construction</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%205/minimax.m">Assignment: Built-In Functions</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%205/trio.m">Assignment: Matrix Construction</a><br/>
 
 ## Week 6: Selection
 <h3>Programming Assignments:</h3>
-• <a href="">Assignment: If-Statement Practice</a><br/>
-• <a href="">Assignment: More Practice</a><br/>
-• <a href="">Assignment: nargin</a><br/>
-• <a href="">Assignment: Lesson 5 Wrap-Up</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%206/picker.m">Assignment: If-Statement Practice</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%206/eligible.m">Assignment: More Practice</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%206/under_age.m">Assignment: nargin</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%206/valid_date.m">Assignment: Lesson 5 Wrap-Up</a><br/>
 
 ## Week 7: Loops
 <h3>Programming Assignments:</h3>
