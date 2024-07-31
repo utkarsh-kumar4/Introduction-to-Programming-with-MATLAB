@@ -25,17 +25,17 @@ No graded assignment or quiz for Week 1.
 
 ## Week 3: Matrices and Operators
 <h3>Programming Assignments:</h3>
-• <a href="">Assignment: Colon Operators</a><br/>
-• <a href="">Assignment: Matrix Indexing</a><br/>
-• <a href="">Assignment: Matrix Arithmetic</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%203/colon_operators.m">Assignment: Colon Operators</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%203/matrix_indexing.m">Assignment: Matrix Indexing</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%203/matrix_arithmetic.m">Assignment: Matrix Arithmetic</a><br/>
 <h3>Quiz:</h3>
-• <a href="">Lesson 2 Wrap-Up</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%203/lesson2_wrapup">Lesson 2 Wrap-Up</a><br/>
 
 ## Week 4: Functions
 <h3>Programming Assignments:</h3>
-• <a href="">Assignment: A Simple Function</a><br/>
-• <a href="">Assignment: Multiple Outputs</a><br/>
-• <a href="">Assignment: Lesson 3 Wrap-Up</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%204/tri_area.m">Assignment: A Simple Function</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%204/corners.m">Assignment: Multiple Outputs</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%204/taxi_fare.m">Assignment: Lesson 3 Wrap-Up</a><br/>
 
 ## Week 5: Programmer's Toolbox
 <h3>Programming Assignments:</h3>
