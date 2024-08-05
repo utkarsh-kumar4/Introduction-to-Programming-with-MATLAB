@@ -6,12 +6,12 @@
 ## 📖 Overview
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%201">Week 1: Course Pages</a><br/>
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%202">Week 2: The MATLAB Environment</a><br/>
-• <a href="">Week 3: Matrices and Operators</a><br/>
-• <a href="">Week 4: Functions</a><br/>
-• <a href="">Week 5: Programmer's Toolbox</a><br/>
-• <a href="">Week 6: Selection</a><br/>
-• <a href="">Week 7: Loops</a><br/>
-• <a href="">Week 8: Data Types</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%203">Week 3: Matrices and Operators</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%204">Week 4: Functions</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%205">Week 5: Programmer's Toolbox</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%206">Week 6: Selection</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%207">Week 7: Loops</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%208">Week 8: Data Types</a><br/>
 • <a href="">Week 9: File Input/Output</a><br/>
 • <a href="">Certificate</a><br/>
 
