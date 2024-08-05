@@ -4,7 +4,7 @@
 • <a href="https://www.coursera.org/instructor/mikefitzpatrick">Mike Fitzpatrick</a> - Electrical Engineering & Computer Science, Neurological Surgery, Radiological Sciences, Vanderbilt University<br/>
 
 ## 📖 Overview
-• [Week 1: Course Pages</a><br/>](week-1-course-pages)
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%201">Week 1: Course Pages</a><br/>
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%202">Week 2: The MATLAB Environment</a><br/>
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%203">Week 3: Matrices and Operators</a><br/>
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%204">Week 4: Functions</a><br/>
