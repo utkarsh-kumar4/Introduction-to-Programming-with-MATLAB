@@ -20,8 +20,8 @@ No graded assignment or quiz for Week 1.
 
 ## Week 2: The MATLAB Environment
 <h3>Programming Assignments:</h3>
-• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%202/matlab_as_a_calculator.m">MATLAB as a Calculator</a><br/>
-• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%202/lesson1_wrapup.m">Lesson 1 Wrap-Up</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%202/matlab_as_a_calculator.m">Assignment: MATLAB as a Calculator</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%202/lesson1_wrapup.m">Assignment: Lesson 1 Wrap-Up</a><br/>
 
 ## Week 3: Matrices and Operators
 <h3>Programming Assignments:</h3>
