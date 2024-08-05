@@ -51,10 +51,10 @@ No graded assignment or quiz for Week 1.
 
 ## Week 7: Loops
 <h3>Programming Assignments:</h3>
-• <a href="">Assignment: for-loop Practice</a><br/>
-• <a href="">Assignment: while-loop Practice</a><br/>
-• <a href="">Assignment: Logical Indexing</a><br/>
-• <a href="">Lesson 6 Wrap-Up</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%207/halfsum.m">Assignment: for-loop Practice</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%207/next_prime.m">Assignment: while-loop Practice</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%207/freezing.m">Assignment: Logical Indexing</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%207/max_sum.m">Lesson 6 Wrap-Up</a><br/>
 
 ## Week 8: Data Types
 <h3>Programming Assignments:</h3>
