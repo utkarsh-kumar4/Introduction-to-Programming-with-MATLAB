@@ -58,8 +58,8 @@ No graded assignment or quiz for Week 1.
 
 ## Week 8: Data Types
 <h3>Programming Assignments:</h3>
-• <a href="">Assignment: Character Vectors</a><br/>
-• <a href="">Assignment: Using Cell Arrays</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%208/caesar.m">Assignment: Character Vectors</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%208/sparse2matrix.m">Assignment: Using Cell Arrays</a><br/>
 
 ## Week 9: File Input/Output
 <h3>Programming Assignments:</h3>
