@@ -29,7 +29,7 @@ No graded assignment or quiz for Week 1.
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%203/matrix_indexing.m">Assignment: Matrix Indexing</a><br/>
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%203/matrix_arithmetic.m">Assignment: Matrix Arithmetic</a><br/>
 <h3>Quiz:</h3>
-• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%203/lesson2_wrapup">Lesson 2 Wrap-Up</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%203/lesson2_wrapup">Assignment: Lesson 2 Wrap-Up</a><br/>
 
 ## Week 4: Functions
 <h3>Programming Assignments:</h3>
@@ -54,7 +54,7 @@ No graded assignment or quiz for Week 1.
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%207/halfsum.m">Assignment: for-loop Practice</a><br/>
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%207/next_prime.m">Assignment: while-loop Practice</a><br/>
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%207/freezing.m">Assignment: Logical Indexing</a><br/>
-• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%207/max_sum.m">Lesson 6 Wrap-Up</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%207/max_sum.m">Assignment: Lesson 6 Wrap-Up</a><br/>
 
 ## Week 8: Data Types
 <h3>Programming Assignments:</h3>
