@@ -12,7 +12,7 @@
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%206">Week 6: Selection</a><br/>
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%207">Week 7: Loops</a><br/>
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%208">Week 8: Data Types</a><br/>
-• <a href="">Week 9: File Input/Output</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/tree/main/Module%209">Week 9: File Input/Output</a><br/>
 • <a href="">Certificate</a><br/>
 
 ## Week 1: Course Pages
@@ -63,10 +63,10 @@ No graded assignment or quiz for Week 1.
 
 ## Week 9: File Input/Output
 <h3>Programming Assignments:</h3>
-• <a href="">Assignment: Excel Files</a><br/>
-• <a href="">Assignment: Text Files</a><br/>
-• <a href="">Assignment: Saddle Points</a><br/>
-• <a href="">Assignment: Image Blur</a><br/>
-• <a href="">Assignment: Echo Generator</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%209/get_distance.m">Assignment: Excel Files</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%209/char_counter.m">Assignment: Text Files</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%209/saddle.m">Assignment: Saddle Points</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%209/blur.m">Assignment: Image Blur</a><br/>
+• <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%209/echo_gen.m">Assignment: Echo Generator</a><br/>
 
 ## 🎓 Certificate
