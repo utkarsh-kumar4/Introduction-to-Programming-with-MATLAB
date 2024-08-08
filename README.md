@@ -70,3 +70,4 @@ No graded assignment or quiz for Week 1.
 • <a href="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Module%209/echo_gen.m">Assignment: Echo Generator</a><br/>
 
 ## 🎓 Certificate
+<img src="https://github.com/utkarsh-kumar4/Introduction-to-Programming-with-MATLAB/blob/main/Coursera_Certificate.jpg" alt="Certificate"/>
