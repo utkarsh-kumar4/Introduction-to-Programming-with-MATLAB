@@ -1,27 +1,13 @@
-function output = blur(img,w)
-    input_image = imread(img);
-    if (size(input_image,3)==3)
-        % Check for coloured image.
-        output = zeros(size(input_image),'like',input_image);
-        for k = 1:3
-            output(:,:,k) = process_RGB_channel(input_image(:,:,k),w);
-        end
-    else
-        % If grayscale image, directly go to the 'process_channel' function.
-        output = process_RGB_channel(input_image,w);
-    end
-    imshow(output);
-end
-
-function output_RGB_channel = process_RGB_channel(channel,w)
-    [row,col] = size(channel);
-    output_RGB_channel = zeros(row,col);
+function [output] = blur(A, w)
+    [rows, columns] = size(A);
+    B = nan(size(A) + 2 * w);
+    B(w + 1 : end - w, w + 1 : end - w) = A;
+    output = 0 * A;
     
-    for i = 1:row
-        for j = 1:col
-            sub_matrix = channel(max(1,i-w):min(row,i+w),max(1,j-w):min(col,j+w));
-            output_RGB_channel(i,j) = mean(sub_matrix(:));
-        end
+    for i = w + 1 : rows + w
+      for j = w + 1 : columns + w
+        tmp = B(i - w : i + w, j - w : j + w);
+        output(i - w, j - w) = mean(tmp(~isnan(tmp)));
+      end
     end
-    output_RGB_channel = uint8(output_RGB_channel);
 end
